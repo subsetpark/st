@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-char font[] = "Iosevka Term:pixelsize=16:antialias=true:autohint=true";
+char font[] = "Iosevka Term:pixelsize=22:antialias=true:autohint=true";
 int borderpx = 2;
 
 /*
